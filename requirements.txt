@@ -1,0 +1,6 @@
+#using for frontend
+streamlit
+# for accessing the gemini pro api
+google-generativeai
+# (it is to upload the environment variables)
+python-dotenv
