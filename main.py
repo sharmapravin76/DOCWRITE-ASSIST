@@ -110,7 +110,7 @@ st.markdown(
 
 # App layout
 
-st.markdown('<p class="header">PRESCRIPTION DETAIL APPLICATION</p>', unsafe_allow_html=True)
+st.markdown('<p class="header">DOCTOR DECIPHER AI </p>', unsafe_allow_html=True)
 
 input = st.text_input("Input Prompt:", key="input")
 
@@ -128,3 +128,4 @@ if submit:
     st.markdown('<p class="response-container">The Response is:</p>', unsafe_allow_html=True)
     st.markdown(f'<p class="response">{response}</p>', unsafe_allow_html=True)
 
+#  to run use command -->streamlit run c:\Users\KIIT\OneDrive\Desktop\Prescription-Ai\Prescription-Ai-\main.py
