@@ -5,8 +5,8 @@ import streamlit as st
 import os
 import google.generativeai as genai
 
-genai.configure(api_key=os.getenv("AIzaSyBitsHhNAqI4OfMIyS-b1ZlYduK93iH9Zc"))
-
+genai.configure(api_key=os.getenv("write the api key"))
+which is AIzaSyBitsHhNAqI4OfMIyS-b1ZlYduK93iH9Zc
 ##Function to load gemini Pro model and get responses
 model=genai.GenerativeModel("gemini-pro")
 def get_gemini_response(question):
