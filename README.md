@@ -1,4 +1,4 @@
-# DOCWRITE-ASSIST-
+# DOCWRITE-ASSIST -
 Every day, millions of people face the same challenge: deciphering hazy doctor handwriting on prescriptions. 
 It's a frustrating experience that leads to medication errors and wasted time. But what if there was a solution? Introducing a revolutionary prescription detail application 
 
@@ -10,3 +10,6 @@ It's a frustrating experience that leads to medication errors and wasted time. B
 
 4.Whether you're managing personal prescriptions or collaborating with healthcare professionals, it empowers you to take control of your medication regimen with ease and 
   efficiency.
+
+# TEST DATASET
+![20240628_035826](https://github.com/sharmapravin76/DOCWRITE-ASSIST/assets/120593776/e229ed59-9cc6-4b29-853b-6a7c5f04e01e)
