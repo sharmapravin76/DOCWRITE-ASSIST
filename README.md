@@ -15,4 +15,4 @@ It's a frustrating experience that leads to medication errors and wasted time. B
 ![20240628_035826](https://github.com/sharmapravin76/DOCWRITE-ASSIST/assets/120593776/e229ed59-9cc6-4b29-853b-6a7c5f04e01e)
 
 # DEMO
-https://github.com/sharmapravin76/DOCWRITE-ASSIST/assets/120593776/e19e9f02-eaa1-4321-994b-9e1eea90b87b
+[https://github.com/sharmapravin76/DOCWRITE-ASSIST/assets/120593776/e19e9f02-eaa1-4321-994b-9e1eea90b87b](https://github.com/sharmapravin76/DOCWRITE-ASSIST/assets/120593776/54599a98-b71b-4c2e-8d1a-b065e5329b30)
